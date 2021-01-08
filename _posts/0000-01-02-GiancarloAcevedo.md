@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Mi nuevo texto
+esta liena ha sido remplazada por 3ra vez
 Utiliza la flecha hacia la izquierda para volver!
